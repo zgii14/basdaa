@@ -62,9 +62,9 @@ CREATE TABLE `data_anggota` (
 
 INSERT INTO `data_anggota` (`id`, `nama`, `npm`, `email`, `no_hp`, `foto_anggota`) VALUES
 (41, 'Muhammad Rozagi', 'G1A022008', 'muhammadrozagi09@gmail.com', '086353245532', 'foto_anggota/2.2.png'),
-(42, 'Merly Yuni Purnama', 'G1A022006', 'merly123@gmail.com', '082236145540', 'foto_anggota/2.png'),
-(49, 'Sinta Ezra Wati Gulo', 'G1A022040', 'sinta123@gmail.com', '089182931829', 'foto_anggota/4.png'),
-(50, 'Keysa Maqfirah', 'G1A022012', 'keysa123@gmail.com', '081297314348', 'foto_anggota/3.png'),
+(42, 'Tiesya Andrianti Ramdhanti', 'G1A022014', 'tiesya123@gmail.com', '082236145540', 'foto_anggota/2.png'),
+(49, 'Attika Oktavianti', 'G1A022020', 'attika23@gmail.com', '089182931829', 'foto_anggota/4.png'),
+(50, 'Hikmah Hijrayanti', 'G1A022026', 'hikmah123@gmail.com', '081297314348', 'foto_anggota/3.png'),
 (51, 'Federika Butar Butar', 'G1A022030', 'federika@gmail.com', '089819812121', 'foto_anggota/Logo.png');
 -- --------------------------------------------------------
 
