@@ -83,18 +83,18 @@
             </div>
             <div class="dev-card">
                 <img src="Img/menu/2.png" alt="Leader" class="dev-card-img" />
-                <h3 class="dev-card title">-Merly Yuni Purnama-</h3>
-                <p class="dev-card-jabatan">G1A022006</p>
+                <h3 class="dev-card title">-Tiesya Andriani Ramdhanti-</h3>
+                <p class="dev-card-jabatan">G1A022014</p>
             </div>
             <div class="dev-card">
                 <img src="Img/menu/3.png" alt="Leader" class="dev-card-img" />
-                <h3 class="dev-card title">-Keysa Maqfirah-</h3>
-                <p class="dev-card-jabatan">G1A022012</p>
+                <h3 class="dev-card title">-Attika Oktavianti-</h3>
+                <p class="dev-card-jabatan">G1A022020</p>
             </div>
             <div class="dev-card">
                 <img src="Img/menu/4.png" alt="Leader" class="dev-card-img" />
-                <h3 class="dev-card title">-Sinta Ezra Wati Gulo-</h3>
-                <p class="dev-card-jabatan">G1A022040</p>
+                <h3 class="dev-card title">-Hikmah Hijrayanti-</h3>
+                <p class="dev-card-jabatan">G1A022026</p>
             </div>
         </div>
     </section>
