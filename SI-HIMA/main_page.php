@@ -30,7 +30,7 @@ include 'top.php'; ?>
                         <div class="container">
                         <div class="jumbotron">
                             <h1>Inventaris Himatif</h1>
-                            <p>"Tubes Proyek Basis Data Kelompok 3"</p>
+                            <p>"Tubes Proyek Basis Data Lanjut Kelompok 3"</p>
                             <p>-KELOMPOK 3-</p>
                             </div>
                         </div>
